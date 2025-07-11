@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hafsa Suleman</h1>
+<h1 align="center">Hi, I'm Hafsa Suleman</h1>
 <h3 align="center">Software Engineering Student | Tech Explorer | AI Enthusiast</h3>
 
 <p align="center">
@@ -11,10 +11,10 @@
 
 ### 💼 Recent Internships
 
-- 🔒 **NADRA (July 2024 – August 2024)**  
+- **NADRA (July 2024 – August 2024)**  
   *Explored the fundamentals of Artificial Intelligence and Machine Learning in a government-led environment.*
 
-- 💸 **JazzCash – Growth & Strategy (June 2025 – Present)**  
+- **JazzCash – Growth & Strategy (June 2025 – Present)**  
   *Contributing to digital financial transformation by working on data-driven strategy and customer-centric innovation.*
 
 ---
