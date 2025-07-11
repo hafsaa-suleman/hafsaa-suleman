@@ -1,4 +1,4 @@
-# Hey, I'm Hafsa Suleman 
+# Hi, I'm Hafsa Suleman 
 **BS Software Engineering** @ [FAST NUCES](https://www.nu.edu.pk/) | **AI/ML & Software Developer**  
 
 **Experience:**  
