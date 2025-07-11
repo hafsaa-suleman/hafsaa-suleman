@@ -1,24 +1,41 @@
-<h1 align="center">Hi, I'm Hafsa Suleman</h1>
-<h3 align="center">Software Engineering Student | Tech Explorer | AI Enthusiast</h3>
+# Hey, I'm Hafsa Suleman 
+**BS Software Engineering** @ [FAST NUCES](https://www.nu.edu.pk/) | **AI/ML & Software Developer**  
 
-<p align="center">
-  🎓 FAST-NUCES, Islamabad – 7th Semester <br>
-  💻 Passionate about building smart, scalable, and user-centric solutions <br>
-  🌱 Currently exploring AI, Fintech, and Full-Stack Development
-</p>
+**Experience:**  
+- Growth and Strategy Intern @ [JazzCash](https://www.jazzcash.com.pk/)  
+- AI/ML Intern @ [NADRA](https://www.nadra.gov.pk/)  
 
----
+**Learning:** Advanced ML, Cloud Computing, and Formal Methods in Software Engineering  
 
-### 💼 Recent Internships
-
-- **NADRA (July 2024 – August 2024)**  
-  *Explored the fundamentals of Artificial Intelligence and Machine Learning in a government-led environment.*
-
-- **JazzCash – Growth & Strategy (June 2025 – Present)**  
-  *Contributing to digital financial transformation by working on data-driven strategy and customer-centric innovation.*
+**Passionate about:** AI/ML, Algorithm Design, and Building Scalable Systems  
 
 ---
 
+### **Skills**  
+**Languages:** Python, C++, Java, JavaScript, C#, C  
+**AI/ML:** PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas  
+**Web Dev:** MERN Stack (MongoDB, Express.js, React, Node.js), HTML/CSS  
+**Databases:** SQL Server, MySQL, MongoDB  
+**Tools:** Git, Miniconda, Z3 Solver  
+
+---
+
+### **Projects**  
+| Project | Description | Tech Stack |  
+|---------|-------------|------------|  
+| **[Butterfly Classification (NADRA)](link)** | AlexNet model for 75-class butterfly dataset (88% accuracy) | Python, PyTorch |  
+| **[Alien VS Humans (Minimax AI)](link)** | Turn-based game with Alpha-Beta Pruning | Python |  
+| **[GoLocal Guide (Tourist System)](link)** | MERN-based role management system | MERN Stack |  
+| **[Formal Methods Verification Tool](link)** | Program correctness using Z3 Solver | Python, SMT |  
+
+*(Replace `yourusername` with your actual GitHub handle and add links to your repos.)*  
+
+---
+
+### **Let's Connect!**  
+📧 **Email:** hafsasuleman3@gmail.com  
+🔗 **LinkedIn:** [Hafsa Suleman](http://www.linkedin.com/in/hafsa-suleman)  
+---
 <!--
 **hafsaa-suleman/hafsaa-suleman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
