@@ -28,8 +28,6 @@
 | **[GoLocal Guide (Tourist System)](link)** | MERN-based role management system | MERN Stack |  
 | **[Formal Methods Verification Tool](link)** | Program correctness using Z3 Solver | Python, SMT |  
 
-*(Replace `yourusername` with your actual GitHub handle and add links to your repos.)*  
-
 ---
 
 ### **Let's Connect!**  
