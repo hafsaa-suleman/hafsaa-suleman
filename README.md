@@ -15,8 +15,6 @@
 </a>
 </p>
 
----
-
 <h2> 👩🏻‍💻 &nbsp;A Little About Me</h2>
 
 ```yaml
@@ -71,3 +69,5 @@ hobbies: ["Hiking", "Swimming", "Problem-solving"]
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+---
