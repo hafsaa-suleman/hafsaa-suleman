@@ -40,7 +40,7 @@
 </p>
 
 <h2 align="center">
-  Let's Connect and Chat! 💬
+  Let's Connect and Chat!
 </h2>
 
 <p align="center">
