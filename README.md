@@ -13,7 +13,7 @@
   <li>Developed <b>GoLocal Guide</b> – a MERN Stack tourist management system with Admin, Guide, and Tourist roles</li>
   <li>Experienced in full-stack development, algorithm design, and data analysis</li>
   <li>Strong foundation in C++, Python, JavaScript, and database systems (SQL Server, MongoDB, MySQL)</li>
-  <li>Dean’s List – Spring 2024 & Fall 2024</li>
+  <li>Dean’s List – Spring 2024 | Fall 2024 | Spring 2025</li>
 </ul>
 
 
