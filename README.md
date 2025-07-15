@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!%20I'm%20Hafsa%20Suleman&height=100&section=header&textColor=000000"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffeaa7&text=Hi!%20I'm%20Hafsa%20Suleman&height=100&section=header&textColor=000000"/>
 </p>
+
 
 <h1 align="center">
   Let's Connect and Chat! 💬
