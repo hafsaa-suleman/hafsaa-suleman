@@ -39,9 +39,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 </p>
 
-<h1 align="center">
+<h3 align="center">
   Let's Connect and Chat! 💬
-</h1>
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hafsa-suleman/">
