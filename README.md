@@ -3,7 +3,7 @@
 </p>
 
 
-<h2> 👩🏻‍💻 &nbsp;A Little About Me</h2>
+<h2> About Me</h2>
 
 <ul>
   <li><b>Name:</b> Hafsa Suleman</li>
@@ -26,7 +26,7 @@
   <li><b>Hobbies:</b> Hiking, Swimming, Problem-solving</li>
 </ul>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> Some Tools I Have Used and Learned</h2>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
