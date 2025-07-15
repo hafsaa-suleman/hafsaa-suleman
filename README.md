@@ -1,30 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hi!%20I'm%20Hafsa%20Suleman&height=100&section=header&textColor=ffeaa7&"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hi!%20I'm%20Hafsa%20Suleman&height=100&section=header&textColor=ffeaa7&fontSize=20" />
 </p>
 
 
-<h2> About Me</h2>
+<h3 align="center">SE @FAST | Intern @Jazz | Intern @NADRA</h3>
+
+<h2> About Me </h2>
 
 <ul>
-  <li><b>Name:</b> Hafsa Suleman</li>
-  <li><b>Location:</b> Islamabad, Pakistan</li>
-  <li><b>Current Status:</b> Software Engineering Student (FAST NUCES)</li>
-  <li><b>Education:</b>
-    <ul>
-      <li>Bachelor's in Software Engineering (FAST NUCES - 7th Semester)</li>
-    </ul>
-  </li>
-  <li><b>Internships:</b>
-    <ul>
-      <li>JazzCash (Summer 2025) - Digital Financial Services</li>
-      <li>NADRA (Jul–Aug 2024) - Basics of AI & ML</li>
-    </ul>
-  </li>
-  <li><b>Interests:</b> Web Development, Artificial Intelligence, Machine Learning, UI/UX Design, Data Analysis</li>
-  <li><b>Currently Learning:</b> Data Analysis, Cloud Computing</li>
-  <li><b>2025 Goals:</b> Build a portfolio with full-stack projects, Learn cloud services like AWS</li>
-  <li><b>Hobbies:</b> Hiking, Swimming, Problem-solving</li>
+  <li>Rising Senior Software Engineering student at FAST NUCES, Islamabad</li>
+  <li>Machine Learning Intern at NADRA – built a PyTorch-based butterfly classification model (88% accuracy on 75 classes)</li>
+  <li>Developed <b>GoLocal Guide</b> – a MERN Stack tourist management system with Admin, Guide, and Tourist roles</li>
+  <li>Experienced in full-stack development, algorithm design, and data analysis</li>
+  <li>Strong foundation in C++, Python, JavaScript, and database systems (SQL Server, MongoDB, MySQL)</li>
+  <li>Dean’s List – Spring 2024 & Fall 2024</li>
 </ul>
+
+
 
 <h2> Some Tools I Have Used and Learned</h2>
 
