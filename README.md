@@ -2,18 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Hi!%20I'm%20Hafsa%20Suleman&height=100&section=header&textColor=ffeaa7&"/>
 </p>
 
-<h1 align="center">
-  Let's Connect and Chat! 💬
-</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hafsa-suleman/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-  </a>
-  <a href="mailto:i228752@nu.edu.pk">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-  </a>
-</p>
 
 <h2> 👩🏻‍💻 &nbsp;A Little About Me</h2>
 
@@ -57,6 +45,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+</p>
+
+<h1 align="center">
+  Let's Connect and Chat! 💬
+</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hafsa-suleman/">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  </a>
+  <a href="mailto:i228752@nu.edu.pk">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+  </a>
 </p>
 
 <p align="center">
