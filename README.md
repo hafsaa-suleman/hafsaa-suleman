@@ -31,15 +31,28 @@
 
 ---
 
-## Projects
+## 🧩 Projects
 
-- 🎮 **Alien vs Humans (Minimax + Alpha-Beta Pruning)** – Turn-based AI game in Python  
-- 🧬 **Test Case Generator (Genetic Algorithm)** – Covers maximum test cases for date validation  
-- ✅ **Formal Verification Tool** – SSA + Z3-based correctness checker  
-- 🌤️ **Weather Dashboard** – JS + OpenWeather API  
-- ✈️ **Airline Management System** – Java + JavaFX + SQL Server  
-- 🎲 **Ludo Multiplayer Game** – C++ with multithreading for real-time turns  
+### Software & Web Applications
+- **GoLocal Guide** – MERN Stack tourist system with admin, guide & tourist roles  
+- **Airline Management System** – JavaFX + SQL Server-based desktop app  
+- **Café Management System** – C# WinForms app with SQL Server backend  
+- **Banking System** – OOP-based system in C++  
+- **Traffic Management System** – C# WinForms + SQL Server  
 
+### Games & Simulations
+- **Alien vs Humans** – Turn-based Python game using Minimax with alpha-beta pruning  
+- **BattleShip Game** – C++ game using OpenGL on Ubuntu  
+- **Race Car Console Game** – Console game in C++ using data structures  
+- **Ludo Multiplayer Game** – C++ game with multithreading and synchronization  
+- **Uno Multiplayer (UI/UX)** – Interface design using Figma  
+
+### Tools & AI
+- **Butterfly Classifier (ML)** – AlexNet-based PyTorch model on 75-class dataset  
+- **Test Case Generator** – Genetic Algorithm-based testing solution  
+- **Formal Verification Tool** – Uses SSA + Z3 for proving program correctness  
+- **Weather Dashboard** – JavaScript + OpenWeather API  
+- **Class Rescheduling System (UI/UX)** – Designed using JustInMind  
 ---
 
 ## Tools & Platforms
