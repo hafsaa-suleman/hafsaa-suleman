@@ -22,7 +22,7 @@
 `C++` `Python` `C` `C#` `Java` `JavaScript` `HTML` `CSS`
 
 **Web Development:**  
-`React.js` `Node.js` `Express.js` `MongoDB` *(via MERN Stack)*
+`React.js` `Node.js` `Express.js` `MongoDB` *(MERN Stack)*
 
 **Databases & Tools:**  
 `MongoDB` `SQL Server` `MySQL` `Git`
@@ -49,11 +49,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 </p>
 
-<h2 align="center">
+<h2>
   Let's Connect and Chat!
 </h2>
 
-<p align="center">
+<p >
   <a href="https://www.linkedin.com/in/hafsa-suleman/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
