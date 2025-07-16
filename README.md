@@ -31,7 +31,7 @@
 
 ---
 
-## 🧩 Projects
+## Projects
 
 ### Software & Web Applications
 - **GoLocal Guide** – MERN Stack tourist system with admin, guide & tourist roles  
