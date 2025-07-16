@@ -16,16 +16,17 @@
   <li>Dean’s List – Spring 2024 | Fall 2024 | Spring 2025</li>
 </ul>
 
-##  My Tech Stack
+## Skills
 
 **Languages:**  
-`Python` `JavaScript` `TypeScript` `Java` `C/C++` `HTML/CSS` `SQL`
+`C++` `Python` `C` `C#` `Java` `JavaScript` `HTML` `CSS`
 
-**Frameworks & Libraries**  
-`React` `Angular` `Node.js` `Express` `Bootstrap` `jQuery` `Next.js`
+**Web Development:**  
+`React.js` `Node.js` `Express.js` `MongoDB` *(via MERN Stack)*
 
-**Databases & Tools**  
-`MongoDB` `MySQL` `Figma` `Git` `Agile/Scrum`
+**Databases & Tools:**  
+`MongoDB` `SQL Server` `MySQL` `Git`
+
 
 <h2> Some Tools I Have Used and Learned</h2>
 
