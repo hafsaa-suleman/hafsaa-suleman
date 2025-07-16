@@ -16,7 +16,16 @@
   <li>Dean’s List – Spring 2024 | Fall 2024 | Spring 2025</li>
 </ul>
 
+##  My Tech Stack
 
+**Languages:**  
+`Python` `JavaScript` `TypeScript` `Java` `C/C++` `HTML/CSS` `SQL`
+
+**Frameworks & Libraries**  
+`React` `Angular` `Node.js` `Express` `Bootstrap` `jQuery` `Next.js`
+
+**Databases & Tools**  
+`MongoDB` `MySQL` `Figma` `Git` `Agile/Scrum`
 
 <h2> Some Tools I Have Used and Learned</h2>
 
