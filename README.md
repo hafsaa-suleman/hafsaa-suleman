@@ -8,10 +8,10 @@
 
 ## About Me
 
-- ML Intern @NADRA: Built an **AlexNet-based Butterfly Classification Model** in PyTorch (88% accuracy on 75-class dataset)  
+- Dean’s List: Spring 2024 | Fall 2024
 - Passionate about AI/ML, full-stack development, and solving real-world problems  
+- ML Intern @NADRA: Built an **AlexNet-based Butterfly Classification Model** in PyTorch (88% accuracy on 75-class dataset)  
 - Developed **GoLocal Guide** – a MERN Stack tourist management system with Admin, Guide, and Tourist roles  
-- Dean’s List: Spring 2024 | Fall 2024  
 - Always eager to learn, contribute, and collaborate!
 
 ---
