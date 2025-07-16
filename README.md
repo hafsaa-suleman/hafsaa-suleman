@@ -2,17 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Hi!%20I'm%20Hafsa%20Suleman&height=100&section=header&textColor=ffeaa7&fontSize=30" />
 </p>
 
-<h3 align="center">Software Engineering @FAST | Intern @JazzCash & NADRA | ML & Full-Stack Enthusiast</h3>
+<h3 align="center">Software Engineering @FAST | Intern @JazzCash | Former AI/ML Intern @NADRA</h3>
 
 ---
 
 ## About Me
 
-- Final-year Software Engineering student at FAST NUCES, Islamabad  
 - ML Intern @NADRA: Built an **AlexNet-based Butterfly Classification Model** in PyTorch (88% accuracy on 75-class dataset)  
 - Passionate about AI/ML, full-stack development, and solving real-world problems  
 - Developed **GoLocal Guide** – a MERN Stack tourist management system with Admin, Guide, and Tourist roles  
-- Comfortable working across C++, Python, JavaScript, and relational/noSQL databases  
 - Dean’s List: Spring 2024 | Fall 2024  
 - Always eager to learn, contribute, and collaborate!
 
